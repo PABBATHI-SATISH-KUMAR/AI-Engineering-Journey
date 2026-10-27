@@ -1,0 +1,53 @@
+AI ENGINEERING JOURNEY
+01 - PYTHON FUNDAMENTALS
+DAY 01: PYTHON ENVIRONMENT SETUP (THEORY)
+========================================
+
+1. PYTHON SETUP
+Python is the programming language and runtime used to execute Python programs.
+Check whether Python is installed:
+    python --version
+
+2. VS CODE AND JUPYTER NOTEBOOK
+VS Code: A code editor used to write, run, and debug Python files (.py).
+Jupyter Notebook: An interactive environment that runs code in cells (.ipynb).
+Use VS Code for applications and projects; use Jupyter for experiments and data analysis.
+
+3. VIRTUAL ENVIRONMENT (venv)
+A virtual environment keeps a project's Python packages separate from other projects.
+Create one inside the current folder:
+    python -m venv .venv
+
+Command breakdown:
+    python  = starts the Python interpreter
+    -m      = runs a Python module as a program
+    venv    = built-in module for creating virtual environments
+    .venv   = folder name for the new environment (you can choose another name)
+
+On Windows PowerShell, activate it with:
+    .\.venv\Scripts\Activate.ps1
+
+To leave the active environment:
+    deactivate
+
+4. pip (PACKAGE INSTALLER)
+pip installs and manages third-party Python packages.
+Examples (run after activating the environment):
+    python -m pip install numpy
+    python -m pip list
+    python -m pip uninstall numpy
+    python -m pip freeze > requirements.txt
+
+5. HOW THEY WORK TOGETHER
+Python: executes code.
+VS Code / Jupyter: lets you write and run code.
+venv: isolates packages for each project.
+pip: installs and manages those packages.
+
+6. GIT REMINDER
+Do not commit the .venv/ folder. Add this line to the repository's .gitignore:
+    .venv/
+
+DAY 01 TAKEAWAY
+The environment is the foundation for building reproducible Python and AI projects.
+Today's focus: understanding the tools and commands, not coding exercises.
