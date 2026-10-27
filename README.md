@@ -12,9 +12,9 @@ My goal is to build strong fundamentals, gain hands-on experience, develop real-
 
 ## 📊 Learning Progress Tracker
 
-| Day | Date | Topic | What I Learned | Notes | Status |
-|---|---|---|---|---|---|
-| 01 | 27-Oct-2026 | Python Environment Setup | Python installation, VS Code, Jupyter Notebook, virtual environments, pip, and basic commands | [Day 01 Notes](01-Python-Fundamentals/Day01_Python_Environment_Setup.txt) | ✅ Completed |
+| Day | Date | Topic | What I Learned | Status |
+|---|---|---|---|---|
+| 01 | 27-Oct-2026 | Python Environment Setup | Python installation, VS Code, Jupyter Notebook, virtual environments, pip, and basic commands | ✅ Completed |
 
 ---
 
@@ -43,7 +43,7 @@ AI-Engineering-Journey/
 
 | Phase | Learning Area | Key Topics |
 |---|---|---|
-| 01 | Python Fundamentals | Basics, OOP, functions, modules, advanced Python |
+| 01 | Python Fundamentals | Basics, OOP, Functions, Modules, Advanced Python |
 | 02 | Mathematics for AI | Linear Algebra, Calculus, Probability, Statistics |
 | 03 | Data Analysis | NumPy, Pandas, SQL, Data Visualization |
 | 04 | Machine Learning | Supervised and Unsupervised Learning, Model Evaluation |
@@ -58,7 +58,6 @@ AI-Engineering-Journey/
 ## 🎯 My Learning Commitments
 
 - 📅 Study consistently every day.
-- ⏳ Target approximately 3.5 hours of learning daily.
 - 🧠 Focus on understanding concepts rather than memorizing code.
 - 💻 Practice coding and problem-solving independently.
 - 📤 Push learning progress to GitHub regularly.
@@ -86,8 +85,7 @@ Each day's learning record will include:
 1. **Date and Day Number**
 2. **Topic Covered**
 3. **Key Concepts Learned**
-4. **Notes or Code File**
-5. **Completion Status**
+4. **Completion Status**
 
 ---
 
