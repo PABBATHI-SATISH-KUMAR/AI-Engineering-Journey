@@ -19,6 +19,7 @@ My goal is to build strong fundamentals, gain hands-on experience, develop real-
 | 03 |28-Oct-2026	 | Python Data Types        |	 Python Data Types ,Numeric, string, Boolean, collections, mutability, type conversion	                                  | ✅ Completed |
 |04| 28-Oct-2026 |Python Operators |Arithmetic, Assignment, Comparison, Logical, Membership, Identity, and Bitwise Operators; Operator Precedence; Left and Right Bit Shifts; Practical Coding Challenges |✅ Completed|
 
+
 ---
 
 ## 📂 Repository Structure
