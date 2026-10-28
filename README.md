@@ -15,6 +15,8 @@ My goal is to build strong fundamentals, gain hands-on experience, develop real-
 | Day | Date | Topic | What I Learned | Status |
 |---|---|---|---|---|
 | 01 | 27-Oct-2026 | Python Environment Setup | Python installation, VS Code, Jupyter Notebook, virtual environments, pip, and basic commands | ✅ Completed |
+| 02 |28-Oct-2026	 | Python Variables	Assignment, naming conventions, references, mutability, swapping, scope	                                | ✅ Completed |
+| 03 |28-Oct-2026	 | Python Data Types	Numeric, string, Boolean, collections, mutability, type conversion	                                  | ✅ Completed |
 
 ---
 
