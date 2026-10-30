@@ -20,6 +20,7 @@ My goal is to build strong fundamentals, gain hands-on experience, develop real-
 | 03 | 28-Oct-2026 | Python Data Types | Numeric, string, Boolean, collections, mutability, and type conversion | ✅ Completed |
 | 04 | 28-Oct-2026 | Python Operators | Arithmetic, Assignment, Comparison, Logical, Membership, Identity, and Bitwise Operators; Operator Precedence; Left and Right Bit Shifts; Practical Coding Challenges | ✅ Completed |
 | 05 | 29-Oct-2026 | Python Conditional Statements | if, elif, else, nested conditions, decision-making, and practical conditional coding challenges | ✅ Completed |
+| 06 | 30-Oct-2026 | Python Loops | for and while Loops, range(), break, continue, pass, Nested Loops, Loop else, enumerate(), zip(), Accumulators, Counters, List Comprehensions, and 8 Practical Coding Challenges | ✅ Completed |
 
 ---
 
