@@ -21,6 +21,7 @@ My goal is to build strong fundamentals, gain hands-on experience, develop real-
 | 04 | 28-Oct-2026 | Python Operators | Arithmetic, Assignment, Comparison, Logical, Membership, Identity, and Bitwise Operators; Operator Precedence; Left and Right Bit Shifts; Practical Coding Challenges | ✅ Completed |
 | 05 | 29-Oct-2026 | Python Conditional Statements | if, elif, else, nested conditions, decision-making, and practical conditional coding challenges | ✅ Completed |
 | 06 | 30-Oct-2026 | Python Loops | for and while loops, range(), break, continue, pass, nested loops, loop else, enumerate(), zip(), accumulators, counters, list comprehensions, and 8 practical coding challenges | ✅ Completed |
+| 07 | 06-Nov-2026 | Python Strings | String creation, indexing, slicing, immutability, concatenation, repetition, string methods, formatting, escape sequences, and string manipulation | ✅ Completed |
 
 ---
 
@@ -78,10 +79,10 @@ AI-Engineering-Journey/
 | Metric | Current Progress |
 |---|---|
 | Journey Started | 27 October 2026 |
-| Days Documented | 6 |
+| Days Documented | 7 |
 | Current Phase | 01 — Python Fundamentals |
-| Current Topic | Python Loops |
-| Topics Documented | 6 |
+| Current Topic | Python Strings |
+| Topics Documented | 7 |
 | Projects Completed | 0 |
 
 ---
